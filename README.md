@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ENJ1
-- 👀 I’m interested in machine learning and porting Linux to various devices.
-- 🌱 I’m currently learning machine learning and low level hardware stuff
+- 👀 I’m interested in machine learning and IoT
+- 🌱 I’m currently learning C++ and some general low-level stuff
 - 📫 How to reach me: Nowhere, yet
 
 <!---
