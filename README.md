@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrimpboyho3
+- 👋 Hi, I’m @archrr1
 - 👀 I’m interested in machine learning and IoT
 - 🌱 I’m currently doing some low level stuff
 - 📫 How to reach me: Nowhere, yet
